@@ -8,3 +8,5 @@ https://discord.com/api/webhooks/1252798272335122493/yZsEGz3Cze-TWwitEquy5sO4tpS
 https://discord.com/api/webhooks/1252798365809381386/lUXAPaxe4kDv3713WFlTUF-ys6FJLot28rcMU6bnM-qzGdcfigpwQ1asu5ocnBgB7J3w -- máy 8
 https://discord.com/api/webhooks/1252857464890855468/0hkQl_-QBAX3yLNimBZ5xjilGZMZAJrsPGc47ntR6svUTpOjI3HViHy0mz2g9ITtkS6l -- máy 9
 https://discord.com/api/webhooks/1252857645342396487/yel5OErUcwXLXyg9rOMfqW2DbJcRdq2wCvgm1uWgHdqgdqk-YoPWEPuqybonCkTqjSDW -- máy 10
+https://discord.com/api/webhooks/1252982408140292096/xJV0KK_fV0e1BiHneB43XCMosN_2v5SMhQgpdfu6v7Ztk_UTiGfeNu1tqlcWv9ZKutRc -- máy 11
+https://discord.com/api/webhooks/1252982509726077052/pEa_B0TpQFSvTL-ZMBf3NwQxdD4OkFnIVaGSBbxrowXHZUO2GAXj488WcWP5qTO6sqV_ -- máy 12
