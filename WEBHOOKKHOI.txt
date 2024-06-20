@@ -10,3 +10,6 @@ https://discord.com/api/webhooks/1252857464890855468/0hkQl_-QBAX3yLNimBZ5xjilGZM
 https://discord.com/api/webhooks/1252857645342396487/yel5OErUcwXLXyg9rOMfqW2DbJcRdq2wCvgm1uWgHdqgdqk-YoPWEPuqybonCkTqjSDW -- máy 10
 https://discord.com/api/webhooks/1252982408140292096/xJV0KK_fV0e1BiHneB43XCMosN_2v5SMhQgpdfu6v7Ztk_UTiGfeNu1tqlcWv9ZKutRc -- máy 11
 https://discord.com/api/webhooks/1252982509726077052/pEa_B0TpQFSvTL-ZMBf3NwQxdD4OkFnIVaGSBbxrowXHZUO2GAXj488WcWP5qTO6sqV_ -- máy 12
+https://discord.com/api/webhooks/1253248228355211284/KnnGfz1hzJHHuc5DT_LFrUjlmlqF7_g-UJbTDCJvl3zgE2W_tdXn10JIU3exFlkUHfp_ -- máy 13
+https://discord.com/api/webhooks/1253248463014068256/P0UTvnkT5cjoaf_HI9LKGAhbaVytyXRdX5aGM_9ZmF1Kw8w25XjUdBPNhp9IzYx6QlCM -- máy 14
+https://discord.com/api/webhooks/1253248578122551336/ugEguYElpnS1kbxruAJtpOMeOm4-YHEbKg1UAEFnaxofmwUyjYvk4cvoHHkIx1a3Vyua -- máy 15
