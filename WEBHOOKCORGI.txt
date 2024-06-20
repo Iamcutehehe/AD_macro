@@ -1,0 +1,4 @@
+https://discord.com/api/webhooks/1253249906316021881/BvodpYm8Gq2SfHJLlLIpLJRUG3MFV7rxPqQcRBwd28DzbMPErRnVQj4ZKYzSYjHEvyOh -- máy 1
+https://discord.com/api/webhooks/1253250771667910697/3vAKtyjdcZRoK9PTN2mUHR_pofLH9F-LZof8wHDm2tRIQxeFOXulgo_QlbnR3lAH4riQ -- máy 2
+https://discord.com/api/webhooks/1253250885312581712/kYyjznlfZbD4cDWEVZD17t8w7EXbtu26FXD1LYAwWOto6UX3m8l9u3WUhSBrUuk7e9ty -- máy 3
+https://discord.com/api/webhooks/1253251026807427133/MqwLHzcqgENtw2QdfdeGvpcWcRFXCnfA00rvopgK9CijNTgNPg4MmdFu9H3YGeVTsHMA -- máy 4
